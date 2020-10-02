@@ -1,2 +1,1 @@
-# Calculator
-Making calculator using python
+# Tkinder Projects
