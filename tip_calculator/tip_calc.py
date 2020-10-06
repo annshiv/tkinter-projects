@@ -1,4 +1,4 @@
-import Tkinter
+from tkinter import Tk
 class Tipcalculator:
     def __init__(self):
         window = Tk()
